@@ -1,0 +1,12 @@
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\bin\Debug\net5.0\myProject.Repositories.deps.json
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\bin\Debug\net5.0\myProject.Repositories.dll
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\bin\Debug\net5.0\ref\myProject.Repositories.dll
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\bin\Debug\net5.0\myProject.Repositories.pdb
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\obj\Debug\net5.0\myProject.Repositories.csproj.AssemblyReference.cache
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\obj\Debug\net5.0\myProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\obj\Debug\net5.0\myProject.Repositories.AssemblyInfoInputs.cache
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\obj\Debug\net5.0\myProject.Repositories.AssemblyInfo.cs
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\obj\Debug\net5.0\myProject.Repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\obj\Debug\net5.0\myProject.Repositories.dll
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\obj\Debug\net5.0\ref\myProject.Repositories.dll
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Repositories\obj\Debug\net5.0\myProject.Repositories.pdb

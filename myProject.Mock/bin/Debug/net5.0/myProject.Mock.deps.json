@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "myProject.Mock/1.0.0": {
+        "dependencies": {
+          "myProject.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "myProject.Mock.dll": {}
+        }
+      },
+      "myProject.Repositories/1.0.0": {
+        "runtime": {
+          "myProject.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "myProject.Mock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "myProject.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

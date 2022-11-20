@@ -1,0 +1,15 @@
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\bin\Debug\net5.0\myProject.Mock.deps.json
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\bin\Debug\net5.0\myProject.Mock.dll
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\bin\Debug\net5.0\ref\myProject.Mock.dll
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\bin\Debug\net5.0\myProject.Mock.pdb
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\bin\Debug\net5.0\myProject.Repositories.dll
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\bin\Debug\net5.0\myProject.Repositories.pdb
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\obj\Debug\net5.0\myProject.Mock.csproj.AssemblyReference.cache
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\obj\Debug\net5.0\myProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\obj\Debug\net5.0\myProject.Mock.AssemblyInfoInputs.cache
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\obj\Debug\net5.0\myProject.Mock.AssemblyInfo.cs
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\obj\Debug\net5.0\myProject.Mock.csproj.CoreCompileInputs.cache
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\obj\Debug\net5.0\myProject.Mock.csproj.CopyComplete
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\obj\Debug\net5.0\myProject.Mock.dll
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\obj\Debug\net5.0\ref\myProject.Mock.dll
+Y:\Groups\3\טננבוים שושנה עליזה\dotnet\פרויקטמעודכןיבחשון\myProect\myProject.Mock\obj\Debug\net5.0\myProject.Mock.pdb
